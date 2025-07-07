@@ -1,0 +1,1 @@
+this new repository marks the beginning of our learning of more advanced html. Our goal is to closely observe structuring behaviour and extensive adding of other forms of document and links, such as pictres, videos, and the like. 
