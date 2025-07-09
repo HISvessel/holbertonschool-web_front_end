@@ -1,0 +1,1 @@
+This repository has all the tasks that will teach us how to utilize css in order to add style to our html structured website.
