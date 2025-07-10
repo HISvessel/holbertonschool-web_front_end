@@ -1,0 +1,39 @@
+/* smooth scroll for the screen*/
+html {
+    scroll-behavior: smooth;
+}
+
+/* setting root details*/
+:root {
+    --color-primary: #d73953;
+    --color-black: #090909;
+    --color-white: #ffffff;
+    --color-light-grey: #f3f3f3;
+    --color-dark-grey: #353535;
+    --text-color: var(--color-black);
+}
+
+/*body color*/
+body {
+    color: var(--text-color);
+}
+
+/*anchor element style*/
+a {
+    color: var(--test-color);
+}
+
+/* visually hidden elements*/
+.visually-hidden {
+    display: none;
+}
+
+/* card category styling*/
+.card-category {
+    color: var(--color-primary);
+}
+
+/* section tagline styling*/
+.section-tagline {
+    color: var(--color-primary);
+}
